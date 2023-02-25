@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289539958939",
+    "project_id": "quotetiger-7f160",
+    "storage_bucket": "quotetiger-7f160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289539958939:android:2a109c9bef3d9d4657be3e",
+        "android_client_info": {
+          "package_name": "com.quote.tiger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289539958939-8ob1eh35ksljgu5if2cnkcf5lhj4ged0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quote.tiger",
+            "certificate_hash": "0e86b4c8056011197e689572de503d497bf41d86"
+          }
+        },
+        {
+          "client_id": "289539958939-9iahmv4afvsvhfae2d9p8dhj03m54n5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdGjBs7V34Jj9rjsW3KCX9YL6AFXNs-pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289539958939-9iahmv4afvsvhfae2d9p8dhj03m54n5h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "289539958939-87gev972iutmdth8vkbso4vg46kg79oj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.quote.tiger",
+                "app_store_id": "962194608"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
